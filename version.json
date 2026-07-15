@@ -1,7 +1,7 @@
 {
   "app_name": "Visualizador Aerogenerador",
 
-  "hardware_type": "ARDUINO_MEGA",
+  "hardware_version": "ARDUINO_MEGA",
   "hardware_model": "AEROGENERADOR",
 
   "latest_app_version": "1.0.1",
@@ -9,6 +9,21 @@
 
   "latest_firmware_version": "1.0.1",
   "firmware_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/download/fw1.0.1/Aerogenerador_ArduinoMega_FW_1.0.1.hex",
+
+  "release_notes": "Actualización compatible con Aerogenerador con Arduino Mega.",
+  "mandatory": false
+}
+{
+  "app_name": "Aerogenerador",
+
+  "hardware_version": "ARDUINO_MEGA",
+  "hardware_model": "AEROGENERADOR",
+
+  "latest_app_version": "10.0.1",
+  "app_installer_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/download/v1.0.1/Instalador_Visualizador_Aerogenerador_10.0.1.exe",
+
+  "latest_firmware_version": "10.0.1",
+  "firmware_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/download/fw1.0.1/Aerogenerador_ArduinoMega_FW_10.0.1.hex",
 
   "release_notes": "Actualización compatible con Aerogenerador con Arduino Mega.",
   "mandatory": false
