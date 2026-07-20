@@ -20,7 +20,7 @@
   "hardware_model": "EN04.1",
 
   "latest_app_version": "10.4",
-  "app_installer_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/download/v1.0.1/Instalador_Visualizador_Aerogenerador_10.0.1.exe",
+  "app_installer_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/tag/v10.4/GUI_Aerogenerador_V10.4_Instalador.exe",
 
   "latest_firmware_version": "23",
   "firmware_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/download/fw1.0.1/Aerogenerador_ArduinoMega_FW_10.0.1.hex",
