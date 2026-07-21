@@ -20,7 +20,7 @@
   "hardware_model": "EN04.1",
 
   "latest_app_version": "10.4",
-  "app_installer_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/download/v10.4/Instalador_EN041_GUI.exe",
+  "app_installer_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/download/v10.4/GUI_V10_4_Setup.exe",
 
   "latest_firmware_version": "23",
   "firmware_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/download/v10.4/Aerogeneradores_xv23_firmware.hex",
