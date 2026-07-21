@@ -20,10 +20,10 @@
   "hardware_model": "EN04.1",
 
   "latest_app_version": "10.4",
-  "app_installer_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/tag/v10.4/GUI_Aerogenerador_V10.4_Instalador.exe",
+  "app_installer_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/download/v10.4/GUI_Aerogenerador_V10.4_Instalador.exe",
 
   "latest_firmware_version": "23",
-  "firmware_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/tag/v10.4//Aerogeneradores_xv23_firmware.hex",
+  "firmware_url": "https://github.com/tecnico01DK/actualizacionesRemotasPruebas/releases/download/v10.4/Aerogeneradores_xv23_firmware.hex",
 
   "release_notes": "Actualización compatible con Aerogenerador con Arduino Mega.",
   "mandatory": false
